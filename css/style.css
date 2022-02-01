@@ -1,0 +1,174 @@
+@import "null.css";
+
+
+
+
+/* ====================Шапка=========================== */
+.section li a {
+	color: rgb(255, 0, 0);
+}
+
+.sub-section li a {
+	color: chartreuse;
+}
+
+/* =====================================Контент================================= */
+.content {
+	color: #000;
+}
+/* ========Главный заголовок============ */
+h1{
+	color: rgb(160, 0, 253);
+}
+h1 a {
+	color: rgb(49, 153, 8);
+}
+
+/* ======================Вступление================== */
+
+.introduction {
+	color: cornflowerblue;
+}
+.device{
+	color: rgb(255, 0, 0);
+}
+.galaxy {
+	color: rgb(226, 153, 153);
+}
+
+/* ======================Статья====================== */
+
+h2 {
+	color: rgb(0, 255, 34);
+}
+/* ===Вселенная=== */
+div.universe {
+	color: rgb(0, 12, 185);
+}
+#universe-title {
+	color: rgb(255, 0, 0);
+}
+.universe > p {
+	color: rgb(255, 0, 0);
+}
+.universe mark {
+	color: rgb(0, 255, 128);
+}
+.causes {
+	color: rgb(4, 247, 255);
+}
+.universe-text {
+	color: darkgreen;
+}
+.universe-text-in,
+.universe-text-on {
+	color: rgb(0, 140, 255);
+}
+.universe-text-all + p {
+	color: rgb(0, 17, 255);
+}
+
+/* =====Строение вселенной===== */
+#structure-title {
+	color: rgb(255, 0, 0);
+}
+.softener.paragraph {
+	color: rgb(59, 56, 56);
+}
+.structure-fact mark{
+	color: rgb(41, 247, 0);
+}
+.paragraph {
+	color: rgb(245, 0, 0);
+}
+.paragraph a {
+	color: rgb(89, 0, 255);
+}
+
+/* ====Определение Вселенной==== */
+[class*="-big"] {
+	color: rgb(10, 231, 194);
+}
+span {
+	color: rgb(101, 177, 86);
+}
+.definition-block span {
+	color: rgb(131, 74, 236);
+}
+
+/* Доказательства, что Вселенная имеет возраст */
+#proof-title {
+	color: rgb(255, 0, 0);
+}
+.proof-text p {
+	color: rgb(21, 255, 91);
+}
+p.proof-text-explosion {
+	color: rgb(250, 0, 0);
+}
+p.proof-text-two {
+	color: rgb(59, 41, 224);
+}
+.proof-text mark {
+	color: rgba(255, 42, 184, 0.952);
+}
+span .proof-text{
+	color: rgb(247, 59, 2);
+}
+
+/* Как возникла Вселенная */
+#how-title {
+	color: #000;
+}
+li {
+	color: rgb(255, 1, 1);
+}
+.how-text-two {
+	color: rgba(255, 111, 111, 0.397);
+}
+.how-text span {
+	color: rgb(55, 0, 255);
+}
+.how-text a {
+	color: rgb(0, 255, 0);
+}
+
+/* Эволюция Вселенной */
+#evolution-title {
+	color: rgb(248, 105, 105);
+}
+[class*="-mark"] {
+	color: rgb(7, 205, 255);
+}
+div.evolution-text {
+	color: rgb(255, 0, 119);
+}
+span.evolution-link a {
+	color: rgb(30, 255, 0);
+}
+
+/* Структура и форма Вселенной */
+.form-universe-text{
+	color: rgb(0, 174, 255);
+}
+.form-universe-paragraph ~ p {
+	color: rgb(255, 226, 62);
+}
+.form-link a {
+	color: rgb(250, 0, 0);
+}
+.xyz li {
+	color: rgb(23, 177, 2);
+}
+
+
+/* ========================Подвал============================== */
+footer.footer {
+	color: darkblue;
+}
+.mark {
+	color: rgb(221, 224, 4);
+}
+footer a {
+	color: rgb(26, 243, 135);
+}
